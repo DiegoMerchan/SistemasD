@@ -1,0 +1,8 @@
+Client\Cliente.class
+Client\cControlador.class
+Server\SControlador.class
+Connection\CuentaBanco.class
+Connection\Sconnector.class
+Server\OperacionesBD.class
+Connection\SaldoCliente.class
+Server\Servidor.class
